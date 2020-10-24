@@ -1,0 +1,4 @@
+include ':myweatherlibrary'
+include ':myGsonlibrary'
+include ':app'
+rootProject.name = "ProveW06-queriesWheater"

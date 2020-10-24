@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProveW06-queriesWheater</string>
+    <string name="cityName">City</string>
+    <string name="currentTemp">Current Temperature</string>
+    <string name="weatherForecast">Weather Forecast</string>
+    <string name="type_the_city">Type the city</string>
+</resources>
